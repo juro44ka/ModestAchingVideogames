@@ -22,4 +22,3 @@ print(' '.join(map(str, arr)))
 print("Кількість замін:", replacements)
 
 print("Результат:")
-for row in matrix:
